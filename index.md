@@ -9,7 +9,7 @@ Information on this map is extracted manually from the above source. Please veri
 
 TAG KEYS<br>
 Red: Latest Count Ward <br>
-Yellow: Ward where Keith Iduhu ranks 1
+Yellow: Keith Iduhu ranks 1
 
 <iframe src="Hiri Koiari Count 18.html" height="500" width="500"></iframe>
 <br>
