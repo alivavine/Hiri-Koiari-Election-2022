@@ -9,7 +9,6 @@ Information on this map is extracted manually from the above source. Please veri
 
 TAG KEYS<br>
 Red: Latest count ward <br>
-Yellow: Keith Iduhu ranks 1
 
 <iframe src="HiriKoiariMap.html" height="500" width="500"></iframe>
 <br>
