@@ -1,7 +1,7 @@
 ## Hiri Koiari Election 2022
 ### Top 5 Candidates by Ward
-Latest Count #29 <br>
-Updated on 7:18 PM (GMT+10) Sunday, 24 July 2022 <br>
+Latest Count #31 <br>
+Updated on 10:12 PM (GMT+10) Monday, 25 July 2022 <br>
 Source: [https://www.facebook.com/KI2022](https://www.facebook.com/KI2022)
 
 DISCLAIMER<br>
